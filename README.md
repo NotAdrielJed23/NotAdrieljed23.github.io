@@ -1,7 +1,7 @@
 # NotAdrieljed23.github.io
 Adriel Malapo
 # **All About Football**
-# H1Description
+# Description
 ![alt text]([https://upload.wikimedia.org/wikipedia/commons/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg]
 Association football, more commonly known as football or soccer,[a] is a team sport played between two teams of 11 players each, who primarily use their feet to propel a ball around a rectangular field called a pitch. The objective of the game is to score more goals than the opposing team by moving the ball beyond the goal line into a rectangular-framed goal defended by the opposing team. Traditionally, the game has been played over two 45-minute halves, for a total match time of 90 minutes. With an estimated 250 million players active in over 200 countries and territories, it is the world's most popular sport.
 
