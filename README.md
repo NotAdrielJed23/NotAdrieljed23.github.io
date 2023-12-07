@@ -28,6 +28,6 @@ Ronaldo made his international debut for Portugal in 2003 at the age of 18 and h
 
 One of the world's most marketable and famous athletes, Ronaldo was ranked the world's highest-paid athlete by Forbes in 2016, 2017, and 2023, and the world's most famous athlete by ESPN from 2016 to 2019. Time included him on their list of the 100 most influential people in the world in 2014. He is the first footballer and the third sportsman to earn US$1 billion in his career.
 
-# **•His Higlights**
+# **• His Highlights**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XWWM4jycABI?si=SV7N2ee9Nk9M-0aD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
