@@ -34,5 +34,5 @@ One of the world's most marketable and famous athletes, Ronaldo was ranked the w
 
 # **•My experience playing Football**
 
-# **Me Myself personally i play football aswell i win a lots of medal by just playing different kind of leagues**
+# **Personally, I play football and have won numerous medals by competing in various leagues.**
 
